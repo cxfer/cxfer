@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Duncan Wanjohi Ndungu
 
-### Full Stack Engineer • Laravel Wizard • Flutter Enthusiast • API Whisperer • Future AI Founder
+### Full Stack Engineer • Laravel Wizard • Flutter Enthusiast • API Developer • Future AI Founder • USSD Developer • SaaS Systems Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Things+People+Actually+Use.;Laravel+%7C+Flutter+%7C+React+%7C+Vue.;Backend+Engineer+with+Frontend+Superpowers.;Turning+Coffee+Into+Production+Code.;Deploy.+Break.+Fix.+Repeat." />
 
@@ -24,39 +24,36 @@
 
 ---
 
-> "There are only two hard things in Computer Science:
-> Cache invalidation, naming things, and off-by-one errors."
 
 </div>
 
-# 🚀 About Me
+#  About Me
 
 I'm a Full Stack Software Engineer from Kenya 🇰🇪 passionate about building scalable software that solves real-world problems.
 
 I enjoy building:
 
-- 💰 FinTech Platforms
-- 🤖 AI Applications
-- 📱 Mobile Apps
-- 🌍 SaaS Products
-- ☁️ Cloud Infrastructure
-- 🔐 Secure APIs
-- 📊 Enterprise Systems
+-  FinTech Platforms
+-  AI Applications
+-  Mobile Apps
+-  SaaS Products
+-  Cloud Infrastructure
+-  Secure APIs
+-  Enterprise Systems
 
-Currently building **Project Africa**, an AI-powered fintech ecosystem for African markets.
+Currently building Instaworks TM, an AI-powered ISP field operations entreprise app for Telecommunication Providers.
 
 ---
 
 # ⚡ Current Status
 
 ```text
-🌍 Location        :: Nairobi, Kenya
-💻 Occupation      :: Full Stack Software Engineer
-🚀 Building        :: Project Africa
-📱 Mobile          :: Flutter
-🌐 Backend         :: Laravel
-🧠 Learning        :: Machine Learning + AI
-☕ Coffee Level    :: ████████████ 100%
+ Location        :: Just Around!
+ Occupation      :: Full Stack Software Engineer
+ Building        :: Instawork Field Operations
+ Mobile          :: Flutter
+ Backend         :: Laravel
+ Learning        :: Machine Learning + AI
 🐛 Bugs Remaining  :: Yes.
 ```
 
@@ -145,90 +142,6 @@ Also experienced with:
 
 ---
 
-# ☁️ Cloud & Services
-
-- Firebase
-- DigitalOcean
-- VPS
-- Linux Servers
-- Cloudflare
-- SMTP
-- WebSockets
-- Pusher
-- M-Pesa
-- OAuth
-- JWT
-- Sanctum
-
----
-
-# 🤖 AI Stack
-
-- Python
-- OpenAI APIs
-- Prompt Engineering
-- AI Chatbots
-- Machine Learning
-- LLM Integrations
-
----
-
-# 💼 Featured Projects
-
-## 🌍 Project Africa
-
-An AI-powered financial ecosystem focused on Africa.
-
-Features include:
-
-- Multi Wallet
-- Investments
-- Currency Exchange
-- AI Financial Assistant
-- Crypto Wallet
-- Mobile Banking
-- Trading Platform
-
----
-
-## ⚖️ LawSuite
-
-A scalable SaaS platform designed for business and legal workflow management.
-
-Features:
-
-- Multi-tenancy
-- Role Management
-- API-first Architecture
-- Workflow Automation
-- Client Management
-
----
-
-## 📱 Flutter Fintech MVP
-
-Built using
-
-- Flutter
-- Laravel
-- REST APIs
-- Authentication
-- Wallet System
-
----
-
-## 🏢 Enterprise CRM Systems
-
-Including:
-
-- Ticketing
-- HR
-- Employee Portal
-- Knowledge Base
-- Reporting
-- Notifications
-
----
 
 # 🧰 Tools I Use
 
@@ -307,62 +220,6 @@ Debugging
 
 ---
 
-# 💡 Random Dev Quote
-
-```javascript
-while (!success) {
-    tryAgain();
-}
-```
-
----
-
-# 😂 Dad Joke of the Day
-
-```php
-if ($bug == true) {
-    echo "It's not a bug.";
-    echo "It's an undocumented feature.";
-}
-```
-
----
-
-# ☕ Daily Routine
-
-```text
-Wake up
-   │
-Coffee
-   │
-Write code
-   │
-Find bug
-   │
-Fix bug
-   │
-Create 3 new bugs
-   │
-Question life choices
-   │
-Push to production
-   │
-Everything works...
-   │
-...until the client tests it.
-```
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build Africa's biggest FinTech platform
-- 🔲 Master AI Engineering
-- 🔲 Contribute to Open Source
-- 🔲 Launch SaaS Products
-- 🔲 Build products used by 1M+ users
-
----
 
 # 🤝 Let's Connect
 
