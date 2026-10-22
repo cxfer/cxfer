@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, You can call me Cxfer or Dan if you may like...
+# 👋 Hey, get some coffee or just code I guess...
 
 ### Full Stack Engineer • Laravel Wizard • Flutter Enthusiast • API Developer • Future AI Founder • USSD Developer • SaaS Systems Developer
 
